@@ -53,9 +53,8 @@ while cap.isOpened():
                     else:
                         fingers.append(0)
                         
-                # ----------------------------------------------------
                 # ADVANCED FLOWING EFFECTS LOGIC
-                # ----------------------------------------------------
+             
                 
                 # Extract key coordinates for easy use
                 thumb_x, thumb_y = lm_list[4][1], lm_list[4][2]
